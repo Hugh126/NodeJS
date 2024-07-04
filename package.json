@@ -1,0 +1,16 @@
+{
+  "name": "nj-course",
+  "version": "1.0.0",
+  "description": "node js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "install": "^0.13.0",
+    "mysql": "^2.18.1"
+  }
+}
